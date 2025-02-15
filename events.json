@@ -1,16 +1,24 @@
 {
   "data": [
     {
-      "img_url": "https://spotme.com/wp-content/uploads/2020/07/Hero-1.jpg",
-      "date": "12/11/1980",
-      "time": "9:00 PM CST",
+      "id": 2,
+      "description": "https://spotme.com/wp-content/uploads/2020/07/Hero-1.jpg",
+      "date": "12/11/1989",
+      "coach": "Trrinity",
+      "start_time": "9:00 PM CST",
+      "location": "virtual",
+      "end_time": "9:00 PM CST",
       "sign_up_url": "https://google.com",
-      "title": "Greatestt Show on Earth 1"
+      "title": "Greatest Show on Earth 2"
     },
     {
-      "img_url": "https://spotme.com/wp-content/uploads/2020/07/Hero-1.jpg",
+      "id": 12,
+      "description": "https://spotme.com/wp-content/uploads/2020/07/Hero-1.jpg",
       "date": "12/11/1989",
-      "time": "9:00 PM CST",
+      "coach": "Trrinity",
+      "start_time": "9:00 PM CST",
+      "location": "virtual",
+      "end_time": "9:00 PM CST",
       "sign_up_url": "https://google.com",
       "title": "Greatest Show on Earth 2"
     }
