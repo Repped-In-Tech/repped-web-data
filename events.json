@@ -39,6 +39,16 @@
       "end_time": "11:00 PM CST",
       "location": "live_stream",
       "sign_up_url": "https://learn.reppedschool.com/c/calendar/ama"
+    },
+    {
+      "id": 19093223,
+      "title": "NashJS - TBD",
+      "description": "<div><!--block--><strong>OPTIONAL</strong></div><div><!--block-->Official RSVP here: https://www.meetup.com/nashjs/</div><div>___ <br><a href=\"https://www.google.com/calendar/event?eid=MWc0NzdwajNodTNjZGlmZW04dmhnNDMzdW8gbm8tcmVwbHlAcmVwcGVkaW50ZWNoLmNv\">Google Cal Link</a> </div>",
+      "coach": "Dr.T",
+      "start_time": "Wednesday, March 26th: 10:30 PM",
+      "end_time": "01:00 AM CST",
+      "location": "virtual",
+      "sign_up_url": "https://learn.reppedschool.com/c/nashville-events/nashjs-tbd"
     }
   ]
 }
