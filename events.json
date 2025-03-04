@@ -109,6 +109,16 @@
       "end_time": "12:30 AM CST",
       "location": "live_stream",
       "sign_up_url": "https://learn.reppedschool.com/c/calendar/coaching-front-end-engineer-cohort"
+    },
+    {
+      "id": 19174428,
+      "title": "LinkedIn Hands on Workshop (On location)",
+      "description": "<div><!--block-->LinkedIn Workshop at WKU!</div>",
+      "coach": "Dr.T",
+      "start_time": "Thursday, March 27th: 10:00 PM",
+      "end_time": "12:00 AM CST",
+      "location": "tbd",
+      "sign_up_url": "https://learn.reppedschool.com/c/calendar/linkedin-hands-on-workshop-on-location"
     }
   ]
 }
