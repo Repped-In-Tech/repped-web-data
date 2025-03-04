@@ -129,6 +129,16 @@
       "end_time": "06:00 PM CST",
       "location": "in_person",
       "sign_up_url": "https://learn.reppedschool.com/c/nashville-events/repped-in-tech-youth-and-family-summit-2025"
+    },
+    {
+      "id": 19198316,
+      "title": "Nashville Product Meetup",
+      "description": "<div><!--block-->Join the community here: https://www.meetup.com/nashville-product-meetup/</div>",
+      "coach": "Dr.T",
+      "start_time": "Wednesday, March 19th: 10:30 PM",
+      "end_time": "01:00 AM CST",
+      "location": "in_person",
+      "sign_up_url": "https://learn.reppedschool.com/c/nashville-events/nashville-product-meetup"
     }
   ]
 }
