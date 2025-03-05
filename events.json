@@ -159,6 +159,16 @@
       "end_time": "12:00 AM CST",
       "location": "virtual",
       "sign_up_url": "https://learn.reppedschool.com/c/calendar/cohort-fe-engineer-career-strategy-what-to-expect-prework"
+    },
+    {
+      "id": 19216258,
+      "title": "[COHORT] Orientation",
+      "description": "<div><!--block-->Welcome to <strong>Repped School!</strong> 🎉 This <strong>Orientation Session</strong> is designed to help you navigate our virtual space, understand how we operate, and set you up for success in the cohort.</div><h3><!--block--><strong>What to Expect:</strong></h3><div><!--block-->✅ <strong>Tour of the Virtual School</strong> – Learn how to access resources, discussion spaces, and support.<br>✅ <strong>How We Communicate</strong> – Get familiar with where to find announcements, session links, and important updates.<br>✅ <strong>Signing Up for Sessions</strong> – Walkthrough of how to register for upcoming live and self-paced sessions.<br>✅ <strong>Tracking Your Progress</strong> – Learn how to stay on top of assignments, resources, and key deadlines.<br>✅ <strong>Where to Ask for Help</strong> – Understand how to reach instructors, connect with peers, and get support when needed.</div><div><!--block--><br>💡 <strong>Pro Tip:</strong> The more engaged you are, the more you’ll gain from this experience. Dive in, explore, and start making connections!</div>",
+      "coach": "Dr.T",
+      "start_time": "Thursday, April 3rd: 11:00 PM",
+      "end_time": "11:30 PM CST",
+      "location": "live_stream",
+      "sign_up_url": "https://learn.reppedschool.com/c/calendar/cohort-orientation"
     }
   ]
 }
