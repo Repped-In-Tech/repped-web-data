@@ -179,6 +179,16 @@
       "end_time": "12:30 AM CST",
       "location": "live_stream",
       "sign_up_url": "https://learn.reppedschool.com/c/calendar/cohort-linkedin-resume-class-1"
+    },
+    {
+      "id": 19216603,
+      "title": "[COHORT] FRONT END ENGINEER: HTML/CSS - Class 1",
+      "description": "<div><!--block-->TBA</div>",
+      "coach": "ReppedBot",
+      "start_time": "Thursday, April 10th: 11:00 PM",
+      "end_time": "12:30 AM CST",
+      "location": "live_stream",
+      "sign_up_url": "https://learn.reppedschool.com/c/calendar/cohort-front-end-engineer-html-css-class-1"
     }
   ]
 }
