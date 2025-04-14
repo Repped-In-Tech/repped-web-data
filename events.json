@@ -219,6 +219,16 @@
       "end_time": "09:30 PM CST",
       "location": "in_person",
       "sign_up_url": "https://community.reppedin.tech/c/nashville-events/tech-vision-conference-2025"
+    },
+    {
+      "id": 20563916,
+      "title": "Test Event",
+      "description": "",
+      "coach": "Dr.T",
+      "start_time": "Monday, April 14th: 08:00 PM",
+      "end_time": "09:00 PM CST",
+      "location": "live_room",
+      "sign_up_url": "https://community.reppedin.tech/c/calendar/test-event"
     }
   ]
 }
