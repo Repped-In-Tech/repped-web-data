@@ -229,6 +229,16 @@
       "end_time": "09:00 PM CST",
       "location": "live_room",
       "sign_up_url": "https://community.reppedin.tech/c/calendar/test-event"
+    },
+    {
+      "id": 21160598,
+      "title": "Chat about Repped School",
+      "description": "",
+      "coach": "Dr.T",
+      "start_time": "Saturday, May 3rd: 01:45 PM",
+      "end_time": "02:45 PM CST",
+      "location": "live_room",
+      "sign_up_url": "https://community.reppedin.tech/c/meeting/chat-about-repped-school"
     }
   ]
 }
