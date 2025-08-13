@@ -299,6 +299,16 @@
       "end_time": "06:00 PM CST",
       "location": "live_room",
       "sign_up_url": "https://community.reppedin.tech/c/nashville-events/weekly-community-lunch-office-hours-12485a"
+    },
+    {
+      "id": 24089643,
+      "title": "Monthly Repped Interest Session",
+      "description": "<div><!--block-->Join us to learn all about the Repped Community and new things happening.<br><br>This is also the way to get VERIFIED for the community.</div>",
+      "coach": "Dr.Vasquez (Dr. Vas)",
+      "start_time": "Wednesday, September 3rd: 05:00 PM",
+      "end_time": "05:45 PM CST",
+      "location": "live_stream",
+      "sign_up_url": "https://community.reppedin.tech/c/community-events/monthly-repped-interest-session"
     }
   ]
 }
