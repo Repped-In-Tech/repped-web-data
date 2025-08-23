@@ -319,6 +319,16 @@
       "end_time": "05:45 PM CST",
       "location": "live_stream",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/monthly-repped-interest-session-a71f04"
+    },
+    {
+      "id": 24366093,
+      "title": "SQL Lab",
+      "description": "<div><!--block-->Join us for a SQL Sprint! 2-weeks of community learning and growth.</div>",
+      "coach": "Dr.Vasquez (Dr. Vas)",
+      "start_time": "Monday, October 6th: 11:00 PM",
+      "end_time": "02:00 AM CST",
+      "location": "tbd",
+      "sign_up_url": "https://community.reppedin.tech/c/scheduled-labs/sql-lab"
     }
   ]
 }
