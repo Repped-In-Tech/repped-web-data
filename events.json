@@ -329,6 +329,16 @@
       "end_time": "02:00 AM CST",
       "location": "tbd",
       "sign_up_url": "https://community.reppedin.tech/c/scheduled-labs/sql-lab"
+    },
+    {
+      "id": 24683516,
+      "title": "October Sprint Announcements",
+      "description": "<div><!--block-->Join us for the release of the October sprint and workshop schedules so you can be the first to know!<br><br>See you there!</div>",
+      "coach": "Dr.Vasquez (Dr. Vas)",
+      "start_time": "Wednesday, September 10th: 03:00 PM",
+      "end_time": "03:30 PM CST",
+      "location": "live_room",
+      "sign_up_url": "https://community.reppedin.tech/c/community-events/october-sprint-announcements"
     }
   ]
 }
