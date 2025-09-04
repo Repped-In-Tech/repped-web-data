@@ -339,6 +339,16 @@
       "end_time": "03:30 PM CST",
       "location": "live_room",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/october-sprint-announcements"
+    },
+    {
+      "id": 24718140,
+      "title": "Test Workshop",
+      "description": "",
+      "coach": "Dr.Vasquez (Dr. Vas)",
+      "start_time": "Thursday, September 4th: 04:00 PM",
+      "end_time": "05:00 PM CST",
+      "location": "live_room",
+      "sign_up_url": "https://community.reppedin.tech/c/community-events/test-workshop"
     }
   ]
 }
