@@ -349,6 +349,16 @@
       "end_time": "05:00 PM CST",
       "location": "live_room",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/test-workshop"
+    },
+    {
+      "id": 25563170,
+      "title": "Monthly Repped Interest Session",
+      "description": "<div><!--block-->12 PM CST | Virtual in the Repped Community</div><div><!--block--><br><strong>Curious about joining a Repped Sprint, Workshop, or Event — but not sure where to start?</strong></div><div><!--block--><br>Our Monthly Interest Session is your chance to learn what Repped is all about. In just 30 minutes with 15 minutes open to questions, we’ll walk you through what’s coming up, how to get involved, and how each experience helps you grow your reputation, influence, and tech skills.</div><div><!--block--><br>Whether you're exploring your options or ready to dive in, this session is a no-pressure space to ask questions, get answers, and meet the community.<br><br></div><blockquote><!--block--><strong>We host it once a month. Show up curious — leave with a plan.</strong></blockquote><div><!--block--><br></div><div><!--block--><strong>✍️ Got a question already? Drop it in the comments below so we can make space for it.</strong><br>&nbsp;</div>",
+      "coach": "Dr.Vas",
+      "start_time": "Wednesday, October 1st: 05:00 PM",
+      "end_time": "05:45 PM CST",
+      "location": "live_stream",
+      "sign_up_url": "https://community.reppedin.tech/c/community-events/monthly-repped-interest-session-9e87fb"
     }
   ]
 }
