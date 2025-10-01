@@ -359,6 +359,16 @@
       "end_time": "05:45 PM CST",
       "location": "live_stream",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/monthly-repped-interest-session-9e87fb"
+    },
+    {
+      "id": 25598588,
+      "title": "Monthly Repped Interest Session",
+      "description": "<h2><!--block-->Monthly Repped Interest Session</h2><div><!--block-->Join us to learn all about the Repped Community and new things happening.<br><br>This is also the way to get VERIFIED for the community.<span data-trix-cursor-target=\"left\" data-trix-serialize=\"false\">﻿</span><action-text-attachment content-type=\"vnd.rubyonrails.horizontal-rule.html\" content=\"<hr>\n\"></action-text-attachment><span data-trix-cursor-target=\"right\" data-trix-serialize=\"false\">﻿</span>You can also watch the replay<span data-trix-cursor-target=\"left\" data-trix-serialize=\"false\">﻿</span><action-text-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIxZ2lkOi8vanVtcHN0YXJ0LWFwcC9FbWJlZC8xNDYxMTM0P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg9hdHRhY2hhYmxlBjsAVEkiD2V4cGlyZXNfYXQGOwBUMA==--004d90fcb667b06ad531ee2664a929a3ea8c61a9\" content-type=\"embed\" content=\"    <div>\n    <div class=&quot;editor-overlay&quot;>\n  <div class=&quot;overlay-editor-actions&quot;>\n    <a href=&quot;#remove-attachment&quot; data-actionType=&quot;remove-attachment&quot; data-action=&quot;click->richtext#removeAttachment&quot; class=&quot;close-btn&quot;>\n      <div class=&quot;close-btn__caret&quot;></div>\n      <svg class=&quot;icon icon-close icon--lg&quot; viewbox=&quot;0 0 24 24&quot;><use xlink:href=&quot;#icon-close&quot;></use></svg>\n    </a>\n  </div>\n</div>\n\n    <div class=&quot;responsive-embed&quot; style=&quot;padding-bottom: 56.1%;&quot;>\n      <iframe frameborder=&quot;0&quot; scrolling=&quot;no&quot; class=&quot;embed-iframe&quot; src=&quot;https://community.reppedin.tech/embeds/BAh7CEkiCGdpZAY6BkVUSSIxZ2lkOi8vanVtcHN0YXJ0LWFwcC9FbWJlZC8xNDYxMTM0P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg9hdHRhY2hhYmxlBjsAVEkiD2V4cGlyZXNfYXQGOwBUMA==--004d90fcb667b06ad531ee2664a929a3ea8c61a9&quot;></iframe>\n    </div>\n  </div>\n\n\n\"></action-text-attachment><span data-trix-cursor-target=\"right\" data-trix-serialize=\"false\">﻿</span></div>",
+      "coach": "Dr.Vasquez (Dr. Vas)",
+      "start_time": "Wednesday, November 5th: 06:00 PM",
+      "end_time": "06:30 PM CST",
+      "location": "virtual",
+      "sign_up_url": "https://community.reppedin.tech/c/interest-sessions/monthly-repped-interest-session-ddc156"
     }
   ]
 }
