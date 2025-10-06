@@ -379,6 +379,16 @@
       "end_time": "06:45 PM CST",
       "location": "virtual",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/repped-monthly-news-community-gathering"
+    },
+    {
+      "id": 25751022,
+      "title": "[IN PERSON] SPRINT 1: Repped Blueprint Onboarding - 2 week sprint",
+      "description": "<div><!--block-->Get ready for getting the most out of the Blueprint Program! Join us as we walk through the onboarding and troubleshoot any issues you may have in getting access to everything you need.</div>",
+      "coach": "Dr.Vas",
+      "start_time": "Wednesday, October 8th: 10:45 PM",
+      "end_time": "01:00 AM CST",
+      "location": "in_person",
+      "sign_up_url": "https://community.reppedin.tech/c/community-events/in-person-sprint-1-repped-blueprint-onboarding-2-week-sprint"
     }
   ]
 }
