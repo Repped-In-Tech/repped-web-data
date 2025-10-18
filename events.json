@@ -449,6 +449,16 @@
       "end_time": "12:30 AM CST",
       "location": "virtual",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/sprint-kick-off-1-live-restream"
+    },
+    {
+      "id": 26118393,
+      "title": "[IN PERSON] Sprint Workgroup #1",
+      "description": "<div><!--block-->A weekly, hybrid coworking session where you power through a common project on your own, side by side, and help each other when stuck. Quiet focus. Quick unblocks. Small wins you can show.</div><h2><!--block-->Core skill you gain</h2><div><!--block--><strong>Independent execution with peer unblocking.</strong><br> You learn to make steady progress on your own while using the room to get unstuck fast and keep momentum.</div><div><!--block-->What that looks like in practice:</div><ul><li><!--block-->Set a tiny target, do the work, show the receipt</li><li><!--block-->Ask focused questions that get real answers</li><li><!--block-->Offer quick tips that unblock a peer</li><li><!--block-->Track progress simply and honestly</li></ul>",
+      "coach": "Dr.Vas",
+      "start_time": "Wednesday, October 22nd: 10:30 PM",
+      "end_time": "12:00 AM CST",
+      "location": "in_person",
+      "sign_up_url": "https://community.reppedin.tech/c/community-events/in-person-sprint-workgroup-1"
     }
   ]
 }
