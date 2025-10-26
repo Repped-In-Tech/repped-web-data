@@ -469,6 +469,16 @@
       "end_time": "12:00 AM CST",
       "location": "live_room",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/virtual-lab-sprint-workgroup-1"
+    },
+    {
+      "id": 26333335,
+      "title": "Sprint #1 - WorkGroup - Typing Test",
+      "description": "<div><!--block-->Join the Blueprint Crew for a working session. This is the last workgroup of the sprint, so come prepared to show us what you built and what you are most proud of.<br><br><strong>If you want to join Blueprint, </strong><a href=\"http://join.repd.in/\"><strong>get started.</strong></a></div>",
+      "coach": "Dr.Vas",
+      "start_time": "Wednesday, October 29th: 10:30 PM",
+      "end_time": "12:00 AM CST",
+      "location": "live_room",
+      "sign_up_url": "https://community.reppedin.tech/c/community-events/sprint-1-work-group-typing-test"
     }
   ]
 }
