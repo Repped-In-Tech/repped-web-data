@@ -499,6 +499,16 @@
       "end_time": "04:00 PM CST",
       "location": "virtual",
       "sign_up_url": "https://community.reppedin.tech/c/community-events/coffee-while-autistic-with-dr-vas"
+    },
+    {
+      "id": 26832323,
+      "title": "Sprint Kick-off #2 [LIVE STREAM]",
+      "description": "<div><!--block-->This sprint, we are focusing on a learning path that movs us from JS fundamentals into Object-Oriented Programming (OOP) and data structures (how data is saved so we can access it to use in our applications), then build a playable Tetris in modern JavaScript.<br><br>During this kick-off, we're helping you set aside take this time to Fill out your Accountability Sheet, get started on the learning path, or ask any question you have via the live chat!<br><br>✅ JOIN US:<br>Repped Sprints typically start the 3rd Monday of every month and you can join by visiting <a href=\"https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqa2tjX0FpU3N3VEtTdU1RZGVUcXpRanNCLXlqQXxBQ3Jtc0ttai1iZG1La0U3VVVvT1VVRkw1X2VkVVVzWmZGT3hveWE4UmVidkY4M0JJYTI1Vk9YelJJZE05UDRnVVJsemJ4TVRFZEVXdTdEeXJBZVBiNmE2TEpXT0Q2eFRuVkt4aFJwVmNBSVJsVEplZWREa1Y4NA&amp;q=https%3A%2F%2Freppedin.tech%2F&amp;v=vNEpi9jrNYk\">https://reppedin.tech</a> and becoming a Blueprint Member. 💰 &nbsp; [GRANT FUNDED UNTIL JULY 2026!]</div>",
+      "coach": "Trinity",
+      "start_time": "Tuesday, November 11th: 11:30 PM",
+      "end_time": "01:00 AM CST",
+      "location": "virtual",
+      "sign_up_url": "https://community.reppedin.tech/c/rsvp/sprint-kick-off-2-live-stream"
     }
   ]
 }
