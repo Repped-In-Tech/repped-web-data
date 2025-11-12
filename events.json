@@ -509,6 +509,16 @@
       "end_time": "01:00 AM CST",
       "location": "virtual",
       "sign_up_url": "https://community.reppedin.tech/c/rsvp/sprint-kick-off-2-live-stream"
+    },
+    {
+      "id": 26861279,
+      "title": "[VIRTUAL LAB] Sprint #2 Workgroup",
+      "description": "<h2><!--block-->CHECK <a href=\"https://community.reppedin.tech/c/challenges/\">SPRINT CHALLENGES</a> for the challenge we will be working on during the workgroup</h2><div><!--block--><br>A weekly, hybrid co-working session where you power through a common project on your own, side by side, and help each other when stuck. Quiet focus. Quick unblocks. Small wins you can show.</div><h2><!--block-->Core skill you gain</h2><div><!--block--><strong>Independent execution with peer unblocking.<br></strong><br> You learn to make steady progress on your own while using the room to get unstuck fast and keep momentum.<br><br></div><div><!--block-->What that looks like in practice:</div><ul><li><!--block-->Set a tiny target, do the work, show the receipt</li><li><!--block-->Ask focused questions that get real answers</li><li><!--block-->Offer quick tips that unblock a peer</li><li><!--block-->Track progress simply and honestly</li></ul><div><!--block--><br>During this session, we'll walk through a tool to help you plan for this sprint and any future sprints: GitHub projects. To prepare, here are some videos to show you how to sign up and set up your profile:</div><ul><li><!--block--><a href=\"https://community.reppedin.tech/c/how-to-guides/creating-your-github-account \">How to Create Your GitHub Account</a></li><li><!--block--><a href=\"https://community.reppedin.tech/c/how-to-guides/set-up-your-github-profile \">How to Set Up Your GitHub Profile</a></li></ul><div><!--block-->Also, be prepared to share your screen if you want to show off your work or need help!<br><br><em>As always, any remaining time after walkthroughs, show-and-tell, and Q&amp;A will be yours to co-work on the project. See ya there!</em></div>",
+      "coach": "Dr.Vas",
+      "start_time": "Wednesday, November 12th: 11:30 PM",
+      "end_time": "01:00 AM CST",
+      "location": "live_room",
+      "sign_up_url": "https://community.reppedin.tech/c/rsvp/virtual-lab-sprint-2-workgroup"
     }
   ]
 }
