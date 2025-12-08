@@ -529,6 +529,16 @@
       "end_time": "12:00 AM CST",
       "location": "live_room",
       "sign_up_url": "https://community.reppedin.tech/c/rsvp/virtual-lab-sprint-workgroup-2"
+    },
+    {
+      "id": 27630962,
+      "title": "[VIRTUAL LAB] Sprint 3: WORK GROUP",
+      "description": "<div><!--block--><strong>Topic: JS Part 1 - </strong><a href=\"https://reppedintech.devpath.com/courses/assess-your-javascript-skills/logical-operators-in-javascript\"><strong>https://reppedintech.devpath.com/courses/assess-your-javascript-skills/logical-operators-in-javascript</strong></a><strong> <br></strong><br><strong>Agenda:</strong></div><ul><li><!--block-->5:30 - 6:00: Entrance Ticket, Review Lesson/Challenge</li><li><!--block-->6:01 - 6:15: Take a stab at the challenge</li><li><!--block-->6:16 - 6:45: Q + A</li><li><!--block-->6:46&nbsp; - 7:00: Reflection + Exit Ticket</li></ul><div><!--block--><br></div><div><!--block--><strong>Entrance Ticket: </strong>Share how you are feeling (Green, Yellow, Red) and a gif that expresses what you are feeling right now in the chat.<br><br><strong>Exit Ticket:</strong> Post a one sentence reflection of your work today and any goals you have in the chat.</div>",
+      "coach": "Dr.Vas",
+      "start_time": "Wednesday, January 14th: 11:30 PM",
+      "end_time": "01:00 AM CST",
+      "location": "live_room",
+      "sign_up_url": "https://community.reppedin.tech/c/rsvp/virtual-lab-sprint-3-work-group"
     }
   ]
 }
