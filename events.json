@@ -609,6 +609,16 @@
       "end_time": "07:30 PM CST",
       "location": "live_room",
       "sign_up_url": "https://community.reppedin.tech/c/events/body-doubling-virtual-b2a166"
+    },
+    {
+      "id": 28434554,
+      "title": "Body Doubling | IN PERSON",
+      "description": "<div><!--block-->This is an in-person body doubling session for focused, parallel work. Bring a task you’ve been putting off or want to make progress on and work quietly alongside others in the same space. Conversation is minimal, but you’re not isolated—shared presence is the point. Come as you are, stay for as long as you need, and leave having moved something forward.</div>",
+      "coach": "Vas",
+      "start_time": "Wednesday, February 25th: 04:00 PM",
+      "end_time": "07:30 PM CST",
+      "location": "in_person",
+      "sign_up_url": "https://community.reppedin.tech/c/events/body-doubling-in-person-d88d92"
     }
   ]
 }
