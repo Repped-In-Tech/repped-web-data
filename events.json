@@ -639,6 +639,16 @@
       "end_time": "07:30 PM CST",
       "location": "in_person",
       "sign_up_url": "https://community.reppedin.tech/c/events/body-doubling-in-person"
+    },
+    {
+      "id": 28626524,
+      "title": "Monday Remote Stand Up",
+      "description": "<div><!--block-->We’ll meet in the Circle Live Room for quick updates and to unblock work.<br><br><strong>Come ready to share:</strong></div><ul><li><!--block-->What you worked on last week</li><li><!--block-->What you’re working on next</li><li><!--block-->Any blockers / help you need</li></ul>",
+      "coach": "Repped Coach",
+      "start_time": "Monday, January 26th: 03:45 PM",
+      "end_time": "04:00 PM CST",
+      "location": "tbd",
+      "sign_up_url": "https://community.reppedin.tech/c/team-meetings/monday-remote-stand-up-8a2d2c"
     }
   ]
 }
