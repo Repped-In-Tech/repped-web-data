@@ -659,6 +659,16 @@
       "end_time": "06:16 PM CST",
       "location": "virtual",
       "sign_up_url": "https://community.reppedin.tech/c/rsvp/sprint-submissions-due-feb-fce560"
+    },
+    {
+      "id": 29564019,
+      "title": "Javascript Basics with Dr. Vás",
+      "description": "<h2><!--block-->Let's learn Javascript!</h2><div><!--block--><br></div><div><!--block-->We are starting from the beginning! Here is the link to get started<br><br><a href=\"https://www.freecodecamp.org/learn/javascript-v9/\">https://www.freecodecamp.org/learn/javascript-v9/</a></div>",
+      "coach": "Dra. Vás",
+      "start_time": "Wednesday, February 11th: 03:30 PM",
+      "end_time": "04:30 PM CST",
+      "location": "live_stream",
+      "sign_up_url": "https://community.reppedin.tech/c/screening-room/javascript-basics"
     }
   ]
 }
