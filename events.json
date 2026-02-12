@@ -669,6 +669,16 @@
       "end_time": "04:30 PM CST",
       "location": "live_stream",
       "sign_up_url": "https://community.reppedin.tech/c/screening-room/javascript-basics"
+    },
+    {
+      "id": 29605170,
+      "title": "JS Basics with Dr. Vás: Variables & Strings",
+      "description": "<div><!--block-->Follow along: https://www.freecodecamp.org/learn/javascript-v9</div>",
+      "coach": "Dra. Vás",
+      "start_time": "Thursday, February 12th: 03:00 PM",
+      "end_time": "04:00 PM CST",
+      "location": "live_stream",
+      "sign_up_url": "https://community.reppedin.tech/c/screening-room/js-basics-with-dr-vas-variables-strings"
     }
   ]
 }
