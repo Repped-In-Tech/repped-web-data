@@ -719,6 +719,16 @@
       "end_time": "04:00 PM CST",
       "location": "live_stream",
       "sign_up_url": "https://community.reppedin.tech/c/screening-room/js-basics-with-dr-vas-working-with-data"
+    },
+    {
+      "id": 31562890,
+      "title": "Work Group",
+      "description": "",
+      "coach": "Teresa Vasquez",
+      "start_time": "Wednesday, May 6th: 11:00 PM",
+      "end_time": "01:00 AM CST",
+      "location": "live_room",
+      "sign_up_url": "https://circles.reppedlabs.org/c/ds-events/work-group-1"
     }
   ]
 }
