@@ -759,6 +759,16 @@
       "end_time": "01:00 AM CST",
       "location": "live_room",
       "sign_up_url": "https://circles.reppedlabs.org/c/ds-events/work-group-1-8cbc48"
+    },
+    {
+      "id": 31653201,
+      "title": "Kick-off + Orientation (Recording will be available)",
+      "description": "",
+      "coach": "Teresa Vasquez",
+      "start_time": "Monday, May 4th: 03:00 PM",
+      "end_time": "03:30 PM CST",
+      "location": "live_stream",
+      "sign_up_url": "https://circles.reppedlabs.org/c/ds-events/kick-off-orientation"
     }
   ]
 }
