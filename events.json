@@ -769,6 +769,16 @@
       "end_time": "03:30 PM CST",
       "location": "live_stream",
       "sign_up_url": "https://circles.reppedlabs.org/c/ds-events/kick-off-orientation"
+    },
+    {
+      "id": 32020624,
+      "title": "Data Science Circle - 2026",
+      "description": "<div><h2>Repped Labs Data Science Prep</h2><p>This is a STRUCTURED data science training experience for people who already know how to code and are ready to move into data science.</p><p>You move at YOUR pace.</p><p>You set YOUR goal.</p><p>We provide the structure.</p><p>You do the work.</p><p>The program is built around focused SPRINTS where you:</p><p>\t•\tlearn targeted concepts</p><p>\t•\tapply them immediately</p><p>\t•\tcomplete EXIT TICKETS to check your understanding</p><p>\t•\tunlock deeper content as you go</p><p>You can finish by the target deadline.</p><p>You can take more time if needed.</p><p>Both are valid.</p><p>But here is what actually matters:</p><p><strong>SHOWING UP.</strong></p><p>The weekly WORK GROUPS are where the growth happens.</p><p>That is where you:</p><p>\t•\task questions</p><p>\t•\twork through real problems</p><p>\t•\tstay accountable</p><p>\t•\tbuild momentum</p><p>You can buy a course anywhere.</p><p>Most people do.</p><p>Most people don’t finish.</p><p>This is different because you are not doing it alone.</p><p>If you show up and stay consistent, you will leave with:</p><p>\t•\tstronger data thinking</p><p>\t•\treal hands-on experience</p><p>\t•\tthe confidence to step into data science work</p><p><br></p><hr></div>",
+      "coach": "Teresa Vasquez",
+      "start_time": "Friday, May 1st: 05:00 AM",
+      "end_time": "04:59 AM CST",
+      "location": "tbd",
+      "sign_up_url": "https://circles.reppedlabs.org/c/circles/data-science-circle-2026"
     }
   ]
 }
