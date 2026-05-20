@@ -779,6 +779,16 @@
       "end_time": "04:59 AM CST",
       "location": "tbd",
       "sign_up_url": "https://circles.reppedlabs.org/c/circles/data-science-circle-2026"
+    },
+    {
+      "id": 32814534,
+      "title": "Coffee with Dr. Vas",
+      "description": "<div><p>Let’s get coffee!</p></div>",
+      "coach": "Coach Vás",
+      "start_time": "Friday, May 22nd: 03:30 PM",
+      "end_time": "04:30 PM CST",
+      "location": "in_person",
+      "sign_up_url": "https://circles.reppedlabs.org/c/ds-events/coffee-with-dr-vas"
     }
   ]
 }
